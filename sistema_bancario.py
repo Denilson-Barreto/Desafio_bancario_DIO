@@ -11,8 +11,6 @@ saldo = 0
 limiti = 500
 numero_saque = 0
 LIMITE_SAQUE = 3
-saques_realisados = []
-depositos_realisados = []
 extrato = ""
 
 while True:
